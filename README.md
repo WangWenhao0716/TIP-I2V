@@ -126,7 +126,7 @@ Click the [WizMap (TIP-I2V VS VidProM)](https://poloclub.github.io/wizmap/?dataU
 (wait for 5 seconds) for an interactive visualization of our 1.70 million prompts.
 
 # Curators
-VidProM is created by [Wenhao Wang](https://wangwenhao0716.github.io/) and Professor [Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=zh-CN).
+TIP-I2V is created by [Wenhao Wang](https://wangwenhao0716.github.io/) and Professor [Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=zh-CN).
 
 # License
 

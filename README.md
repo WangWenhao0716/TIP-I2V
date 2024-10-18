@@ -5,15 +5,9 @@ TIP-I2V is the first dataset comprising over 1.70 million unique user-provided t
 
 ![image](https://github.com/WangWenhao0716/TIP-I2V/blob/main/assets/teasor.png)
 # Datapoint
-<p align="center">
-  <img src="https://huggingface.co/datasets/WenhaoWang/TIP-I2V/resolve/main/assets/datapoint.png" width="1000">
-</p>
-
+![image](https://github.com/WangWenhao0716/TIP-I2V/blob/main/assets/datapoint.png)
 # Statistics
-<p align="center">
-  <img src="https://huggingface.co/datasets/WenhaoWang/TIP-I2V/resolve/main/assets/stat.png" width="1000">
-</p>
-
+![image](https://github.com/WangWenhao0716/TIP-I2V/blob/main/assets/stat.png)
 # Download
 ## Download the text and (compressed) image prompts with related information
 
@@ -125,12 +119,8 @@ hf_hub_download(repo_id="WenhaoWang/TIP-I2V", filename="eval_videos_tar/cog_vide
 ```
 
 # Comparison with VidProM and DiffusionDB
-<p align="center">
-  <img src="https://huggingface.co/datasets/WenhaoWang/TIP-I2V/resolve/main/assets/table.png" width="1000">
-</p>
-<p align="center">
-  <img src="https://huggingface.co/datasets/WenhaoWang/TIP-I2V/resolve/main/assets/comparison.png" width="1000">
-</p>
+![image](https://github.com/WangWenhao0716/TIP-I2V/blob/main/assets/table.png)
+![image](https://github.com/WangWenhao0716/TIP-I2V/blob/main/assets/comparison.png)
 
 Click the [WizMap (TIP-I2V VS VidProM)](https://poloclub.github.io/wizmap/?dataURL=https%3A%2F%2Fhuggingface.co%2Fdatasets%2FWenhaoWang%2FPublic%2Fresolve%2Fmain%2Fdata_tip-i2v_vidprom.ndjson&gridURL=https%3A%2F%2Fhuggingface.co%2Fdatasets%2FWenhaoWang%2FPublic%2Fresolve%2Fmain%2Fgrid_tip-i2v_vidprom.json) and [WizMap (TIP-I2V VS DiffusionDB)](https://poloclub.github.io/wizmap/?dataURL=https%3A%2F%2Fhuggingface.co%2Fdatasets%2FWenhaoWang%2FPublic%2Fresolve%2Fmain%2Fdata_tip-i2v_diffusiondb.ndjson&gridURL=https%3A%2F%2Fhuggingface.co%2Fdatasets%2FWenhaoWang%2FPublic%2Fresolve%2Fmain%2Fgrid_tip-i2v_diffusiondb.json)
 (wait for 5 seconds) for an interactive visualization of our 1.70 million prompts.

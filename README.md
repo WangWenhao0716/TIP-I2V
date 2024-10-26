@@ -117,7 +117,6 @@ hf_hub_download(repo_id="WenhaoWang/TIP-I2V", filename="eval_videos_tar/opensora
 hf_hub_download(repo_id="WenhaoWang/TIP-I2V", filename="eval_videos_tar/i2vgenxl_videos_eval.tar", repo_type="dataset")
 hf_hub_download(repo_id="WenhaoWang/TIP-I2V", filename="eval_videos_tar/cog_videos_eval.tar", repo_type="dataset")
 ```
-```
 
 # Comparison with VidProM and DiffusionDB
 ![image](https://github.com/WangWenhao0716/TIP-I2V/blob/main/assets/table.png)

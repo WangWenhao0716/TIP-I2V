@@ -138,7 +138,7 @@ The prompts and videos in our TIP-I2V are licensed under the [CC BY-NC 4.0 licen
 @article{wang2024tipi2v,
   title={TIP-I2V: A Million-Scale Real Prompt-Gallery Dataset for Image-to-Video Diffusion Models},
   author={Wang, Wenhao and Yang, Yi},
-  booktitle={arXiv preprint arXiv:2410.xxxxx},
+  booktitle={arXiv preprint arXiv:2411.xxxxx},
   year={2024}
 }
 ```

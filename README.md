@@ -9,6 +9,7 @@ TIP-I2V is the first dataset comprising over 1.70 million unique user-provided t
 # Statistics
 ![image](https://github.com/WangWenhao0716/TIP-I2V/blob/main/assets/stat.png)
 # Download
+For users in mainland China, try setting `export HF_ENDPOINT=https://hf-mirror.com` to successfully download the weights.
 ## Download the text and (compressed) image prompts with related information
 
 ```python
